@@ -8,3 +8,5 @@ This is the first paragraph
 
 # Next Chapter
 This is the next chapter of the book.
+
+Changes
