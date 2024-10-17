@@ -2,4 +2,4 @@ A Simple Title.
 
 Lets check the diff.
 
-Adding information from new branch!
+Adding information from new branch! More...
